@@ -1,1 +1,1 @@
-# codewars
+# ready tasks from codewars
