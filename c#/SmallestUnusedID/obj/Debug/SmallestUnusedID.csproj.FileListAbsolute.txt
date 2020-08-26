@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\c#\SmallestUnusedID\bin\Debug\SmallestUnusedID.exe.config
+D:\программирование\CodeWars\c#\SmallestUnusedID\bin\Debug\SmallestUnusedID.exe
+D:\программирование\CodeWars\c#\SmallestUnusedID\bin\Debug\SmallestUnusedID.pdb
+D:\программирование\CodeWars\c#\SmallestUnusedID\obj\Debug\SmallestUnusedID.csprojAssemblyReference.cache
+D:\программирование\CodeWars\c#\SmallestUnusedID\obj\Debug\SmallestUnusedID.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\c#\SmallestUnusedID\obj\Debug\SmallestUnusedID.exe
+D:\программирование\CodeWars\c#\SmallestUnusedID\obj\Debug\SmallestUnusedID.pdb
