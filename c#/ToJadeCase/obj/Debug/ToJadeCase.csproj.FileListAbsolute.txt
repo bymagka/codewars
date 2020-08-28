@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\ToJadeCase\bin\Debug\ToJadeCase.exe.config
+D:\программирование\CodeWars\ToJadeCase\bin\Debug\ToJadeCase.exe
+D:\программирование\CodeWars\ToJadeCase\bin\Debug\ToJadeCase.pdb
+D:\программирование\CodeWars\ToJadeCase\obj\Debug\ToJadeCase.csprojAssemblyReference.cache
+D:\программирование\CodeWars\ToJadeCase\obj\Debug\ToJadeCase.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\ToJadeCase\obj\Debug\ToJadeCase.exe
+D:\программирование\CodeWars\ToJadeCase\obj\Debug\ToJadeCase.pdb
