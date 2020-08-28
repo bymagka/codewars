@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\SquareEveryDigit\bin\Debug\SquareEveryDigit.exe.config
+D:\программирование\CodeWars\SquareEveryDigit\bin\Debug\SquareEveryDigit.exe
+D:\программирование\CodeWars\SquareEveryDigit\bin\Debug\SquareEveryDigit.pdb
+D:\программирование\CodeWars\SquareEveryDigit\obj\Debug\SquareEveryDigit.csprojAssemblyReference.cache
+D:\программирование\CodeWars\SquareEveryDigit\obj\Debug\SquareEveryDigit.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\SquareEveryDigit\obj\Debug\SquareEveryDigit.exe
+D:\программирование\CodeWars\SquareEveryDigit\obj\Debug\SquareEveryDigit.pdb
