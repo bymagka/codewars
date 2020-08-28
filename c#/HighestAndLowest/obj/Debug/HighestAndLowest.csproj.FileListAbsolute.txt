@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\HighestAndLowest\bin\Debug\HighestAndLowest.exe.config
+D:\программирование\CodeWars\HighestAndLowest\bin\Debug\HighestAndLowest.exe
+D:\программирование\CodeWars\HighestAndLowest\bin\Debug\HighestAndLowest.pdb
+D:\программирование\CodeWars\HighestAndLowest\obj\Debug\HighestAndLowest.csprojAssemblyReference.cache
+D:\программирование\CodeWars\HighestAndLowest\obj\Debug\HighestAndLowest.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\HighestAndLowest\obj\Debug\HighestAndLowest.exe
+D:\программирование\CodeWars\HighestAndLowest\obj\Debug\HighestAndLowest.pdb
