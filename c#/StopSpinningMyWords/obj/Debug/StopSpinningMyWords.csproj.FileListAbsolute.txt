@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\StopSpinningMyWords\bin\Debug\StopSpinningMyWords.exe.config
+D:\программирование\CodeWars\StopSpinningMyWords\bin\Debug\StopSpinningMyWords.exe
+D:\программирование\CodeWars\StopSpinningMyWords\bin\Debug\StopSpinningMyWords.pdb
+D:\программирование\CodeWars\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.csprojAssemblyReference.cache
+D:\программирование\CodeWars\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.exe
+D:\программирование\CodeWars\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.pdb
