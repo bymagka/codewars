@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\Isograms\obj\Debug\Isograms.csprojAssemblyReference.cache
+D:\программирование\CodeWars\Isograms\obj\Debug\Isograms.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\Isograms\bin\Debug\Isograms.exe.config
+D:\программирование\CodeWars\Isograms\bin\Debug\Isograms.exe
+D:\программирование\CodeWars\Isograms\bin\Debug\Isograms.pdb
+D:\программирование\CodeWars\Isograms\obj\Debug\Isograms.exe
+D:\программирование\CodeWars\Isograms\obj\Debug\Isograms.pdb

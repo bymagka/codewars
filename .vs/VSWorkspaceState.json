@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\c#",
+    "\\c#\\StopSpinningMyWords",
     "\\SQL"
   ],
+  "SelectedNode": "\\c#\\StopSpinningMyWords\\App.config",
   "PreviewInSolutionExplorer": false
 }
