@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\c#",
-    "\\c#\\StopSpinningMyWords",
-    "\\SQL"
+    "\\c#\\Isograms",
+    "\\c#\\StopSpinningMyWords"
   ],
-  "SelectedNode": "\\c#\\StopSpinningMyWords\\App.config",
+  "SelectedNode": "\\c#\\Kata.cs",
   "PreviewInSolutionExplorer": false
 }
