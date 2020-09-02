@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\CountingDuplicates\bin\Debug\CountingDuplicates.exe.config
+D:\программирование\CodeWars\CountingDuplicates\bin\Debug\CountingDuplicates.exe
+D:\программирование\CodeWars\CountingDuplicates\bin\Debug\CountingDuplicates.pdb
+D:\программирование\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.csprojAssemblyReference.cache
+D:\программирование\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.exe
+D:\программирование\CodeWars\CountingDuplicates\obj\Debug\CountingDuplicates.pdb
