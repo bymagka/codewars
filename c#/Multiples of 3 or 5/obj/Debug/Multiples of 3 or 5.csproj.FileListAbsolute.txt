@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.exe.config
+D:\программирование\CodeWars\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.exe
+D:\программирование\CodeWars\Multiples of 3 or 5\bin\Debug\Multiples of 3 or 5.pdb
+D:\программирование\CodeWars\Multiples of 3 or 5\obj\Debug\Multiples of 3 or 5.csprojAssemblyReference.cache
+D:\программирование\CodeWars\Multiples of 3 or 5\obj\Debug\Multiples of 3 or 5.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\Multiples of 3 or 5\obj\Debug\Multiples of 3 or 5.exe
+D:\программирование\CodeWars\Multiples of 3 or 5\obj\Debug\Multiples of 3 or 5.pdb
