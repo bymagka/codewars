@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\CategorizeNewMember\bin\Debug\CategorizeNewMember.exe.config
+D:\программирование\CodeWars\CategorizeNewMember\bin\Debug\CategorizeNewMember.exe
+D:\программирование\CodeWars\CategorizeNewMember\bin\Debug\CategorizeNewMember.pdb
+D:\программирование\CodeWars\CategorizeNewMember\obj\Debug\CategorizeNewMember.csprojAssemblyReference.cache
+D:\программирование\CodeWars\CategorizeNewMember\obj\Debug\CategorizeNewMember.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\CategorizeNewMember\obj\Debug\CategorizeNewMember.exe
+D:\программирование\CodeWars\CategorizeNewMember\obj\Debug\CategorizeNewMember.pdb

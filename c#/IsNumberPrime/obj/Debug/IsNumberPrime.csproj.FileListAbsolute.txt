@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\IsNumberPrime\bin\Debug\IsNumberPrime.exe.config
+D:\программирование\CodeWars\IsNumberPrime\bin\Debug\IsNumberPrime.exe
+D:\программирование\CodeWars\IsNumberPrime\bin\Debug\IsNumberPrime.pdb
+D:\программирование\CodeWars\IsNumberPrime\obj\Debug\IsNumberPrime.csprojAssemblyReference.cache
+D:\программирование\CodeWars\IsNumberPrime\obj\Debug\IsNumberPrime.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\IsNumberPrime\obj\Debug\IsNumberPrime.exe
+D:\программирование\CodeWars\IsNumberPrime\obj\Debug\IsNumberPrime.pdb
