@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\c#"
+    "\\c#",
+    "\\c#\\IsNumberPrime"
   ],
-  "SelectedNode": "\\c#",
+  "SelectedNode": "\\c#\\IsNumberPrime\\Instructions.txt",
   "PreviewInSolutionExplorer": false
 }
