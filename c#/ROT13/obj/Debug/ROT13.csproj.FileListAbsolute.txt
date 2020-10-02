@@ -1,0 +1,7 @@
+D:\программирование\OV2\ROT13\bin\Debug\ROT13.exe.config
+D:\программирование\OV2\ROT13\bin\Debug\ROT13.exe
+D:\программирование\OV2\ROT13\bin\Debug\ROT13.pdb
+D:\программирование\OV2\ROT13\obj\Debug\ROT13.csprojAssemblyReference.cache
+D:\программирование\OV2\ROT13\obj\Debug\ROT13.csproj.CoreCompileInputs.cache
+D:\программирование\OV2\ROT13\obj\Debug\ROT13.exe
+D:\программирование\OV2\ROT13\obj\Debug\ROT13.pdb

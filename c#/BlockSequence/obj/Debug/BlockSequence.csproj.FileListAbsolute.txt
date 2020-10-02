@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\BlockSequence\bin\Debug\BlockSequence.exe.config
+D:\программирование\CodeWars\BlockSequence\bin\Debug\BlockSequence.exe
+D:\программирование\CodeWars\BlockSequence\bin\Debug\BlockSequence.pdb
+D:\программирование\CodeWars\BlockSequence\obj\Debug\BlockSequence.csprojAssemblyReference.cache
+D:\программирование\CodeWars\BlockSequence\obj\Debug\BlockSequence.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\BlockSequence\obj\Debug\BlockSequence.exe
+D:\программирование\CodeWars\BlockSequence\obj\Debug\BlockSequence.pdb
