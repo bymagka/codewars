@@ -1,0 +1,6 @@
+D:\программирование\CodeWars\IsPanagram\bin\Debug\IsPanagram.exe.config
+D:\программирование\CodeWars\IsPanagram\bin\Debug\IsPanagram.exe
+D:\программирование\CodeWars\IsPanagram\bin\Debug\IsPanagram.pdb
+D:\программирование\CodeWars\IsPanagram\obj\Debug\IsPanagram.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\IsPanagram\obj\Debug\IsPanagram.exe
+D:\программирование\CodeWars\IsPanagram\obj\Debug\IsPanagram.pdb
