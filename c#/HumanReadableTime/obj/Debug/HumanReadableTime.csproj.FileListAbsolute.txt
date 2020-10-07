@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\HumanReadableTime\bin\Debug\HumanReadableTime.exe.config
+D:\программирование\CodeWars\HumanReadableTime\bin\Debug\HumanReadableTime.exe
+D:\программирование\CodeWars\HumanReadableTime\bin\Debug\HumanReadableTime.pdb
+D:\программирование\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.csprojAssemblyReference.cache
+D:\программирование\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.exe
+D:\программирование\CodeWars\HumanReadableTime\obj\Debug\HumanReadableTime.pdb

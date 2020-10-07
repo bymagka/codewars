@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\c#"
+    "\\c#",
+    "\\c#\\HumanReadableTime"
   ],
-  "SelectedNode": "\\c#",
+  "SelectedNode": "\\c#\\HumanReadableTime\\Instructions.txt",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,7 @@
+D:\программирование\CodeWars\MaximumSubarraySum\bin\Debug\MaximumSubarraySum.exe.config
+D:\программирование\CodeWars\MaximumSubarraySum\bin\Debug\MaximumSubarraySum.exe
+D:\программирование\CodeWars\MaximumSubarraySum\bin\Debug\MaximumSubarraySum.pdb
+D:\программирование\CodeWars\MaximumSubarraySum\obj\Debug\MaximumSubarraySum.csprojAssemblyReference.cache
+D:\программирование\CodeWars\MaximumSubarraySum\obj\Debug\MaximumSubarraySum.csproj.CoreCompileInputs.cache
+D:\программирование\CodeWars\MaximumSubarraySum\obj\Debug\MaximumSubarraySum.exe
+D:\программирование\CodeWars\MaximumSubarraySum\obj\Debug\MaximumSubarraySum.pdb
